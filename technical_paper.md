@@ -272,3 +272,9 @@ In this, I create an object with the help of an 'employee factory' which interac
 ## Conclusion
 
 Design patterns are frequently used in building applications because they make code short, readable and easy maintainable but before using it think about the advantages and disadvantages of these design patterns because every design pattern has its own advantages and disadvantages on others and thoroughly think which will help you in building your application after that chose you pattern whether it is a **module, singleton, constructor, factory or prototype** etc because after that what you choose is the best.  
+
+## Reference Links
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns
